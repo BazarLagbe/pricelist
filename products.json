@@ -1,0 +1,347 @@
+{
+    "priceUpdatedAt": "2024-06-19T11:59:29.393744+00:00",
+    "products": [
+        {
+            "name": "Mr.Noodles 4pcs masala 140gm",
+            "category": "Noodles",
+            "mrp": 50.0,
+            "discounted_price": 45.0
+        },
+        {
+            "name": "Mr.Noodles 4pcs masala 248gm",
+            "category": "Noodles",
+            "mrp": 85.0,
+            "discounted_price": 75.0
+        },
+        {
+            "name": "Mr.Noodles 4pcs chicken 248gm",
+            "category": "Noodles",
+            "mrp": 85.0,
+            "discounted_price": 75.0
+        },
+        {
+            "name": "Mr.Noodles 8pcs masala 496gm",
+            "category": "Noodles",
+            "mrp": 160.0,
+            "discounted_price": 135.0
+        },
+        {
+            "name": "Mr.Noodles 8pcs Shahi 496gm",
+            "category": "Noodles",
+            "mrp": 160.0,
+            "discounted_price": 140.0
+        },
+        {
+            "name": "Mr.Noodles 8pcs masala 400gm",
+            "category": "Noodles",
+            "mrp": 145.0,
+            "discounted_price": 120.0
+        },
+        {
+            "name": "Mr.Noodles 12pcs masala 744gm",
+            "category": "Noodles",
+            "mrp": 245.0,
+            "discounted_price": 210.0
+        },
+        {
+            "name": "Mr.Noodles 16pcs masala 992 gm",
+            "category": "Noodles",
+            "mrp": 310.0,
+            "discounted_price": 265.0
+        },
+        {
+            "name": "Mr. Noodles Stick 150 gm",
+            "category": "Noodles",
+            "mrp": 25.0,
+            "discounted_price": 22.0
+        },
+        {
+            "name": "Mr.Noodles single pack 30 gm",
+            "category": "Noodles",
+            "mrp": 10.0,
+            "discounted_price": 9.0
+        },
+        {
+            "name": "Mr.Noodles Single pack 40 gm",
+            "category": "Noodles",
+            "mrp": 15.0,
+            "discounted_price": 13.0
+        },
+        {
+            "name": "Mr. Noodles Chow Mein 300gm",
+            "category": "Noodles",
+            "mrp": 65.0,
+            "discounted_price": 57.0
+        },
+        {
+            "name": "Mr.Noodles Stick 75gm",
+            "category": "Noodles",
+            "mrp": 15.0,
+            "discounted_price": 13.0
+        },
+        {
+            "name": "Mr.Noodles 16pcs Box",
+            "category": "Noodles",
+            "mrp": 280.0,
+            "discounted_price": 260.0
+        },
+        {
+            "name": "Mr.Noodles 14pcs Box",
+            "category": "Noodles",
+            "mrp": 295.0,
+            "discounted_price": 270.0
+        },
+        {
+            "name": "Mr.noodles 28pcs Container",
+            "category": "Noodles",
+            "mrp": 480.0,
+            "discounted_price": 450.0
+        },
+        {
+            "name": "Fresh Noodles Single pack 37 gm",
+            "category": "Noodles",
+            "mrp": 10.0,
+            "discounted_price": 9.0
+        },
+        {
+            "name": "Fresh Noodles 4pcs masala 248gm",
+            "category": "Noodles",
+            "mrp": 85.0,
+            "discounted_price": 77.0
+        },
+        {
+            "name": "Fresh Noodles 8pcs masala 496 gm",
+            "category": "Noodles",
+            "mrp": 160.0,
+            "discounted_price": 130.0
+        },
+        {
+            "name": "Fresh Noodles 12pcs masala 744gm",
+            "category": "Noodles",
+            "mrp": 240.0,
+            "discounted_price": 190.0
+        },
+        {
+            "name": "Fresh Noodles 16pcs masala 992gm",
+            "category": "Noodles",
+            "mrp": 310.0,
+            "discounted_price": 270.0
+        },
+        {
+            "name": "Mr.Noodles 28pcs Container",
+            "category": "Noodles",
+            "mrp": 400.0,
+            "discounted_price": 360.0
+        },
+        {
+            "name": "Mr.Noodles 8pcs masala 400 gm",
+            "category": "Noodles",
+            "mrp": 140.0,
+            "discounted_price": 115.0
+        },
+        {
+            "name": "Fresh Butter cookies 800 gm Jar",
+            "category": "Biscuit",
+            "mrp": 200.0,
+            "discounted_price": 160.0
+        },
+        {
+            "name": "Fresh Butter cookies 650 gm Jar",
+            "category": "Biscuit",
+            "mrp": 150.0,
+            "discounted_price": 130.0
+        },
+        {
+            "name": "Fresh Coconut cookies 240gm",
+            "category": "Biscuit",
+            "mrp": 60.0,
+            "discounted_price": 55.0
+        },
+        {
+            "name": "Fresh Coconut Cookies 80 gm",
+            "category": "Biscuit",
+            "mrp": 20.0,
+            "discounted_price": 18.0
+        },
+        {
+            "name": "Fresh Delicious Cookies 240 gm",
+            "category": "Biscuit",
+            "mrp": 60.0,
+            "discounted_price": 55.0
+        },
+        {
+            "name": "Fresh Delicious Cookies 80 gm",
+            "category": "Biscuit",
+            "mrp": 20.0,
+            "discounted_price": 18.0
+        },
+        {
+            "name": "Fresh Fantasy 175 gm",
+            "category": "Biscuit",
+            "mrp": 150.0,
+            "discounted_price": 110.0
+        },
+        {
+            "name": "Fresh Fantasy 75 gm",
+            "category": "Biscuit",
+            "mrp": 60.0,
+            "discounted_price": 55.0
+        },
+        {
+            "name": "Teer soyabean oil 1 ltr.(poly)",
+            "category": "Groceries",
+            "mrp": 160.0,
+            "discounted_price": 152.0
+        },
+        {
+            "name": "Teer soyabean oil 1/2 ltr.",
+            "category": "Groceries",
+            "mrp": 87.0,
+            "discounted_price": 85.0
+        },
+        {
+            "name": "Teer soyabean oil 1 ltr",
+            "category": "Groceries",
+            "mrp": 167.0,
+            "discounted_price": 164.0
+        },
+        {
+            "name": "Teer soyabean  oil 2 ltr",
+            "category": "Groceries",
+            "mrp": 334.0,
+            "discounted_price": 326.0
+        },
+        {
+            "name": "Teer soyabean oil 3 ltr",
+            "category": "Groceries",
+            "mrp": 500.0,
+            "discounted_price": 490.0
+        },
+        {
+            "name": "Teer soyabean oil 5 ltr",
+            "category": "Groceries",
+            "mrp": 818.0,
+            "discounted_price": 800.0
+        },
+        {
+            "name": "Teer soyabean oil 8 ltr",
+            "category": "Groceries",
+            "mrp": 1320.0,
+            "discounted_price": 1280.0
+        },
+        {
+            "name": "Teer atta 1kg",
+            "category": "Groceries",
+            "mrp": 60.0,
+            "discounted_price": 50.0
+        },
+        {
+            "name": "Teer atta 2 kg",
+            "category": "Groceries",
+            "mrp": 130.0,
+            "discounted_price": 100.0
+        },
+        {
+            "name": "Teer atta 5 kg",
+            "category": "Groceries",
+            "mrp": 290.0,
+            "discounted_price": 235.0
+        },
+        {
+            "name": "Teer Moida 1 kg",
+            "category": "Groceries",
+            "mrp": 75.0,
+            "discounted_price": 69.0
+        },
+        {
+            "name": "Teer suji 250gm",
+            "category": "Groceries",
+            "mrp": 25.0,
+            "discounted_price": 22.0
+        },
+        {
+            "name": "Teer suji 500 gm",
+            "category": "Groceries",
+            "mrp": 48.0,
+            "discounted_price": 44.0
+        },
+        {
+            "name": "Teer chinigura rice 1 kg",
+            "category": "Groceries",
+            "mrp": 170.0,
+            "discounted_price": 145.0
+        },
+        {
+            "name": "Teer suger 1 kg",
+            "category": "Groceries",
+            "mrp": 135.0,
+            "discounted_price": 133.0
+        },
+        {
+            "name": "Teer mustard oil 100 ml",
+            "category": "Groceries",
+            "mrp": 40.0,
+            "discounted_price": 34.0
+        },
+        {
+            "name": "Teer mustard oil 250 ml",
+            "category": "Groceries",
+            "mrp": 95.0,
+            "discounted_price": 77.0
+        },
+        {
+            "name": "Teer mustard oil 500 ml",
+            "category": "Groceries",
+            "mrp": 180.0,
+            "discounted_price": 150.0
+        },
+        {
+            "name": "Teer mustard oil 1 ltr.",
+            "category": "Groceries",
+            "mrp": 340.0,
+            "discounted_price": 280.0
+        },
+        {
+            "name": "Teer mustard oil 5 ltr.",
+            "category": "Groceries",
+            "mrp": 1400.0,
+            "discounted_price": 1150.0
+        },
+        {
+            "name": "Teer salt  500 gm",
+            "category": "Groceries",
+            "mrp": 22.0,
+            "discounted_price": 20.0
+        },
+        {
+            "name": "Teer salt 1 kg",
+            "category": "Groceries",
+            "mrp": 42.0,
+            "discounted_price": 40.0
+        },
+        {
+            "name": "Teer miniket rice 5 kg",
+            "category": "Groceries",
+            "mrp": 440.0,
+            "discounted_price": 405.0
+        },
+        {
+            "name": "Teer katarivog rice 5 kg",
+            "category": "Groceries",
+            "mrp": 460.0,
+            "discounted_price": 430.0
+        },
+        {
+            "name": "Teer nazirshah rice 5 kg",
+            "category": "Groceries",
+            "mrp": 460.0,
+            "discounted_price": 430.0
+        },
+        {
+            "name": "Harpic 1ltr",
+            "category": "Cleaners and Toiletries",
+            "mrp": 0.0,
+            "discounted_price": 0.0
+        }
+    ]
+}
